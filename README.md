@@ -1,4 +1,4 @@
-### mj-cli
+### mj-vue-cli
 
 -   简易好用的 vue-cli 脚手架，供大家学习使用
 
@@ -11,8 +11,8 @@
 
 ### 安装命令
 
--   npm i mj-cli -g
+-   npm i mj-vue-cli -g
 
 ### 运行命令
 
--   mj-cli create projectName
+-   mj-vue-cli create projectName
